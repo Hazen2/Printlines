@@ -1,4 +1,4 @@
 Printlines
 ==========
 
-Showing the difference between print and println
+Simple program showing the difference between print and println
